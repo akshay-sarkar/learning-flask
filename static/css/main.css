@@ -13,9 +13,7 @@ body {
 }
 
 h2 {
-  
   font-weight: 300;
-  
   letter-spacing: -1.2px;
 }
 
@@ -83,6 +81,7 @@ a {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
+  margin-top: 15px;
 }
 
 
@@ -141,7 +140,7 @@ header {
 }
 
 .hero-section .section-content h2 {
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .hero-section .section-content .btn-primary {
